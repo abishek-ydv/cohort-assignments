@@ -1,2 +1,3 @@
-# cohort-assignments
-It contains all the files related to cohort assignments and peer reviews. 
+# LATEST ASSIGNMENT
+
+[er-diagram-assignment.png](ER DIAGRAM ASSIGNMENT/er-diagram-assignment.png)
