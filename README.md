@@ -1,3 +1,7 @@
 # LATEST ASSIGNMENT
 
+## 2. FITNESS INFLUENCER COACHING PLATFORM ER-DIAGRAM
+![image](<ER DIAGRAM ASSIGNMENT 2/Fitness Influencer Coaching Platform ER Diagram.png>)
+--- 
+## 1. INSTAGRAM THRIFT CREATOR STORE ER-DIAGRAM
 ![image](<ER DIAGRAM ASSIGNMENT/er-diagram-assignment.png>)
