@@ -1,8 +1,12 @@
 # LATEST ASSIGNMENT
 
-## 4. COMIC-CON PARKING SYSTEM ER-DIAGRAM
+## 5. ELEVATOR CONTROL SYSTEM ER-DIAGRAM
 
 ![image](<ER-Diagram - Comic-Con Parking System/ER Diagram Comic-Con Parking System.png>)
+
+## 4. COMIC-CON PARKING SYSTEM ER-DIAGRAM
+
+![image](<ER-Diagram Smart Elevator Control System/ER-Diagram Smart Elevator Control System.png>)
 
 ## 2. FITNESS INFLUENCER COACHING PLATFORM ER-DIAGRAM
 
