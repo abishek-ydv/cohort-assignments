@@ -8,6 +8,10 @@
 
 ![image](<ER-Diagram Smart Elevator Control System/ER-Diagram Smart Elevator Control System.png>)
 
+## 3. CLINIC APPOINTMENT AND DIAGONISTIC PLATFORM ER-DIAGRAM
+
+![image](<ER-Diagram Clinic Appointment and Diagnostics Platform/ER-Diagram Clinic Appointment and Diagnostics Platform.png>)
+
 ## 2. FITNESS INFLUENCER COACHING PLATFORM ER-DIAGRAM
 
 ![image](<ER DIAGRAM ASSIGNMENT 2/Fitness Influencer Coaching Platform ER Diagram.png>)
